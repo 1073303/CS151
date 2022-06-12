@@ -1,1 +1,1 @@
-這是CS151 的期末projectt
+這是CS151 的期末project，以HTML配合Vue實作一個簡單的電商平台購物車
